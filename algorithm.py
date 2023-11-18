@@ -162,9 +162,6 @@ def algorithm(flights_filename: str, days_filename: str) -> None:
     del dest_dict[START_FROM]
     res = calculate_trips(trips, dest_dict)
 
-    for trip in res.keys():
-        print(str(res[trip]))
-
     print('\noptimal')
     choose_ideal(res)
 
