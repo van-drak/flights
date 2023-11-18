@@ -1,0 +1,28 @@
+{
+	"days" : [
+		{
+			"name": "Vienna",
+			"minimum": 0,
+			"optimum": 0,
+            "maximum": 0
+		}, 
+		{
+			"name": "Kolombo",
+			"minimum": 9,
+			"optimum": 12,
+            "maximum": 18
+		}, 
+		{
+			"name": "Bangkok",
+			"minimum": 6,
+			"optimum": 9,
+            "maximum": 14
+		}, 
+		{
+			"name": "Singapore",
+			"minimum": 4,
+			"optimum": 8,
+            "maximum": 15
+		}
+    ]
+}
